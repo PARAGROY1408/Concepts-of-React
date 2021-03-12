@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'; // project mei bootstarp ka use kerne ke liye..
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
